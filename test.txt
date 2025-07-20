@@ -1,2 +1,1 @@
-Hi, This is my first git folder
-adding another new line
+adding a third line
